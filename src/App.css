@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.to-do {
+  border: 1px solid lightgray;
+  margin: 4px;
+  width: 30%;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 2px 2px lightgray;
+  border-radius: 5px;
+}
+
+.list {
+  margin: 30px;
+  
+}
