@@ -47,7 +47,15 @@
   border-radius: 5px;
 }
 
+.to-do > button {
+  float: right;
+}
+
 .list {
   margin: 30px;
   
+}
+
+.form {
+  text-align: center;
 }
